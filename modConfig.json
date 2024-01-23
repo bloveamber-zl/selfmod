@@ -1,6 +1,6 @@
 {
     "accumulate": {
         "mod": "https://raw.githubusercontent.com/bloveamber-zl/selfmod/feat_mode/modConfig.json",
-        "download": "https://github.com/bloveamber-zl/selfmod/blob/feat_mode/randommap.zip"
+        "download": "https://github.com/bloveamber-zl/selfmod/raw/feat_mode/randommap.zip"
     }
 }
