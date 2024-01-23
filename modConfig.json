@@ -1,6 +1,6 @@
 {
     "accumulate": {
-        "mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.4/mod.json",
-        "download": "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.3.zip"
+        "mod": "https://raw.githubusercontent.com/bloveamber-zl/selfmod/feat_mode/modConfig.json",
+        "download": "https://github.com/bloveamber-zl/selfmod/blob/feat_mode/randommap.zip"
     }
 }
