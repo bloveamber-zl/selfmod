@@ -12,9 +12,5 @@
         "dwellings": {
             "accumulateWhenOwned": true
         }
-    },
-    "templates": [
-        "config/demo.json",
-        "config/8xl0c.json"
-    ]
+    }
 }
