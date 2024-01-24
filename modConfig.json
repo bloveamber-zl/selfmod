@@ -1,7 +1,6 @@
 {
-    "accumulate": {
-        "mod": "https://raw.githubusercontent.com/bloveamber-zl/selfmod/feat_mode/modConfig.json",
-        "download": "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.3.zip"
-        
+    "selfmod": {
+        "mod": "https://raw.githubusercontent.com/bloveamber-zl/selfmod/v1/modConfig.json",
+        "download": "https://github.com/bloveamber-zl/selfmod/archive/refs/heads/v1.zip"
     }
 }
