@@ -1,6 +1,6 @@
 {
     "selfmod": {
-        "mod": "https://raw.githubusercontent.com/bloveamber-zl/selfmod/v1/modConfig.json",
+        "mod": "https://github.com/bloveamber-zl/selfmod/raw/v1/randommap/mod.json",
         "download": "https://github.com/bloveamber-zl/selfmod/archive/refs/heads/v1.zip"
     }
 }
