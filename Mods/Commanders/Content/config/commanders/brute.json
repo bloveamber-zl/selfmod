@@ -46,7 +46,7 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.stoneSkin"
+                "subtype": "spell.cure"
             }
         },
         "graphics": {

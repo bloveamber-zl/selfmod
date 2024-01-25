@@ -46,7 +46,7 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.implosion"
+                "subtype": "spell.cure"
             },
             "undead": {
                 "type": "UNDEAD"
