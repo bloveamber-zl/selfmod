@@ -44,10 +44,6 @@
                 "type": "CREATURE_SPELL_POWER",
                 "val": 100
             },
-            "canMagicArrow": {
-                "type": "SPELLCASTER",
-                "subtype": "spell.magicArrow"
-            },
             "canCast": {
                 "type": "SPELLCASTER",
                 "subtype": "spell.cure"
