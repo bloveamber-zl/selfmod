@@ -46,8 +46,7 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.implosion",
-                "val": 5
+                "subtype": "spell.implosion"
             },
             "undead": {
                 "type": "UNDEAD"

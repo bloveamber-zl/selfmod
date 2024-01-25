@@ -46,8 +46,7 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.chainLightning",
-                "val": 4
+                "subtype": "spell.chainLightning"
             }
         },
         "graphics": {
