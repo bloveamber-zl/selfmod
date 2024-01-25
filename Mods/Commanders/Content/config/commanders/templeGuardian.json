@@ -46,9 +46,8 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.magicArrow",
-                "addInfo": 22,
-                "val": 2
+                "subtype": "spell.chainLightning",
+                "val": 4
             }
         },
         "graphics": {
