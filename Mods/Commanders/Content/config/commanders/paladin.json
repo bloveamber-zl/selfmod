@@ -46,8 +46,8 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.fireShield",
-                "val": 3
+                "subtype": "spell.cure",
+                "val": 1
             }
         },
         "graphics": {

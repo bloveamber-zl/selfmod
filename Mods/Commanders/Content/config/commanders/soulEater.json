@@ -46,7 +46,7 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.protectWater",
+                "subtype": "spell.cure",
                 "val": 2
             },
             "undead": {

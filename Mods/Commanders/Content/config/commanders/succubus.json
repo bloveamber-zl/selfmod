@@ -46,8 +46,8 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.protectWater",
-                "val": 10
+                "subtype": "spell.cure",
+                "val": 2
             }
         },
         "graphics": {
