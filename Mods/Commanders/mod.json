@@ -1,0 +1,42 @@
+{
+    "name": "Commanders",
+    "description": "This module enables commanders feature from WoG",
+    "modType": "Mechanics",
+    "author": "WoG Team",
+    "contact": "http://forum.vcmi.eu/index.php",
+    "version": "1.0",
+    "chinese": {
+        "name": "self指挥官"
+    },
+    "creatures": [
+        "config/commanders/astralSpirit.json",
+        "config/commanders/brute.json",
+        "config/commanders/hierophant.json",
+        "config/commanders/ogreLeader.json",
+        "config/commanders/paladin.json",
+        "config/commanders/shaman.json",
+        "config/commanders/soulEater.json",
+        "config/commanders/succubus.json",
+        "config/commanders/templeGuardian.json"
+    ],
+    "heroClasses": [
+        "config/heroClasses_"
+    ],
+    "artifacts": [
+        "config/commanderArtifacts/axeOfSmashing.json",
+        "config/commanderArtifacts/bootsOfHaste.json",
+        "config/commanderArtifacts/bowOfSeeking.json",
+        "config/commanderArtifacts/dragonEyeRing.json",
+        "config/commanderArtifacts/hardenedShield.json",
+        "config/commanderArtifacts/helmOfImmortality.json",
+        "config/commanderArtifacts/mithrilMail.json",
+        "config/commanderArtifacts/pendantOfSorcery.json",
+        "config/commanderArtifacts/slavasRingOfPower.json",
+        "config/commanderArtifacts/swordOfSharpness.json"
+    ],
+    "settings": {
+        "modules": {
+            "commanders": true
+        }
+    }
+}

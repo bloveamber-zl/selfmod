@@ -1,0 +1,11 @@
+{
+    "name": "Eurus",
+    "description": "This module enables commanders feature from WoG",
+    "modType": "Mechanics",
+    "author": "WoG Team",
+    "contact": "http://forum.vcmi.eu/index.php",
+    "version": "1.0",
+    "chinese": {
+        "name": "Eurus的mod"
+    }
+}
