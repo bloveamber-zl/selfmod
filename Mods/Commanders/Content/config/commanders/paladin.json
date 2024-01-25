@@ -46,7 +46,7 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.sacrifice",
+                "subtype": "spell.fireShield",
                 "val": 3
             }
         },
