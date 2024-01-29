@@ -46,11 +46,11 @@
             },
             "canMagicArrow": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.magicArrow"
+                "subtype": "spell.meteorShower"
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.landMineTrigger"
+                "subtype": "spell.bless"
             }
         },
         "graphics": {

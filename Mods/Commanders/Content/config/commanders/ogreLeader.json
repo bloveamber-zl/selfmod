@@ -10,17 +10,17 @@
         "cost": {
             "gold": 140
         },
-        "speed": 5,
+        "speed": 7,
         "hitPoints": 60,
-        "shots": 24,
-        "attack": 5,
-        "defense": 5,
+        "shots": 32,
+        "attack": 16,
+        "defense": 16,
         "damage": {
-            "min": 7,
-            "max": 15
+            "min": 18,
+            "max": 22
         },
-        "fightValue": 130,
-        "aiValue": 156,
+        "fightValue": 350,
+        "aiValue": 556,
         "advMapAmount": {
             "min": 16,
             "max": 25
@@ -44,13 +44,11 @@
                 "type": "CREATURE_SPELL_POWER",
                 "val": 100
             },
-            "canMagicArrow": {
-                "type": "SPELLCASTER",
-                "subtype": "spell.magicArrow"
+            "canShoot": {
+                "type": "SHOOTER"
             },
-            "canCast": {
-                "type": "SPELLCASTER",
-                "subtype": "spell.forceField"
+            "noDistancePenalty": {
+                "type": "NO_DISTANCE_PENALTY"
             }
         },
         "graphics": {

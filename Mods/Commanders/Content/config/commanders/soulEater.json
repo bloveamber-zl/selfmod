@@ -46,7 +46,7 @@
             },
             "canMagicArrow": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.magicArrow"
+                "subtype": "spell.forgetfulness"
             },
             "canCast": {
                 "type": "SPELLCASTER",

@@ -46,11 +46,11 @@
             },
             "canMagicArrow": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.magicArrow"
+                "subtype": "spell.resurrection"
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.dispel"
+                "subtype": "spell.magicArrow"
             }
         },
         "graphics": {

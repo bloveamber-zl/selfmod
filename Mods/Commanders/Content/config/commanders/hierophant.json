@@ -46,11 +46,11 @@
             },
             "canMagicArrow": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.magicArrow"
+                "subtype": "spell.clone"
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.landMine"
+                "subtype": "spell.forgetfulness"
             }
         },
         "graphics": {
