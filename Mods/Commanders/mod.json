@@ -17,7 +17,8 @@
         "config/commanders/shaman.json",
         "config/commanders/soulEater.json",
         "config/commanders/succubus.json",
-        "config/commanders/templeGuardian.json"
+        "config/commanders/templeGuardian.json",
+        "config/commanders/deathLords.json"
     ],
     "heroClasses": [
         "config/heroClasses_"
