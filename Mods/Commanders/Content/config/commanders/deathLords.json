@@ -21,7 +21,7 @@
         "fightValue": 530,
         "growth": 9,
         "hasDoubleWeek": false,
-        "hitPoints": 40,
+        "hitPoints": 120,
         "shots": 24,
         "cost": {
             "gold": 140
