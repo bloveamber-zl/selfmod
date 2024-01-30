@@ -18,10 +18,10 @@
         "commander": "brute1"
     },
     "core:beastmaster": {
-        "commander": "deathLords"
+        "commander": "shaman1"
     },
     "core:witch": {
-        "commander": "deathLords"
+        "commander": "shaman1"
     },
     "core:demoniac": {
         "commander": "succubus1"
@@ -42,10 +42,10 @@
         "commander": "hierophant1"
     },
     "core:barbarian": {
-        "commander": "ogreLeader1"
+        "commander": "deathLords"
     },
     "core:battlemage": {
-        "commander": "ogreLeader1"
+        "commander": "deathLords"
     },
     "core:alchemist": {
         "commander": "templeGuardian1"
