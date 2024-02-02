@@ -46,11 +46,13 @@
             },
             "canMagicArrow": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.chainLightning"
+                "subtype": "spell.chainLightning",
+                "val": 3
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.precision"
+                "subtype": "spell.precision",
+                "val": 3
             }
         },
         "graphics": {

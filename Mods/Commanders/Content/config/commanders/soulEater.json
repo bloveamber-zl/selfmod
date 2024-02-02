@@ -46,11 +46,13 @@
             },
             "canMagicArrow": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.forgetfulness"
+                "subtype": "spell.forgetfulness",
+                "val": 3
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.animateDead"
+                "subtype": "spell.animateDead",
+                "val": 3
             },
             "undead": {
                 "type": "UNDEAD"
