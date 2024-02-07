@@ -18,7 +18,16 @@
         "config/commanders/soulEater.json",
         "config/commanders/succubus.json",
         "config/commanders/templeGuardian.json",
-        "config/commanders/deathLords.json"
+        "config/commanders/deathLords.json",
+        "config/creatures/creatures.json",
+        "config/creatures/darknessDragon.json",
+        "config/creatures/diamondDragon.json",
+        "config/creatures/ghostBehemoth.json",
+        "config/creatures/hellBaron.json",
+        "config/creatures/hellHydra.json",
+        "config/creatures/lordOfThunder.json",
+        "config/creatures/sacredPhoenix.json",
+        "config/creatures/supremeArchangel.json"
     ],
     "heroClasses": [
         "config/heroClasses_"
