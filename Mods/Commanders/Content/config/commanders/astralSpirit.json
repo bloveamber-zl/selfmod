@@ -51,8 +51,7 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.bless",
-                "val": 3
+                "subtype": "spell.bless"
             }
         },
         "graphics": {

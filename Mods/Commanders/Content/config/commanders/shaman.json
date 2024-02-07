@@ -52,7 +52,7 @@
             "canCast": {
                 "type": "SPELLCASTER",
                 "subtype": "spell.lightningBolt",
-                "val": 3
+                "val": 2
             }
         },
         "graphics": {

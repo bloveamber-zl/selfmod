@@ -51,8 +51,7 @@
             },
             "canCast": {
                 "type": "SPELLCASTER",
-                "subtype": "spell.slow",
-                "val": 3
+                "subtype": "spell.slow"
             }
         },
         "graphics": {
