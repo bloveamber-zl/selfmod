@@ -1,56 +1,56 @@
 {
     "core:knight": {
-        "commander": "bloodDragon"
+        "commander": "supremeArchangel"
     },
     "core:cleric": {
-        "commander": "brute1"
+        "commander": "paladin1"
     },
     "core:planeswalker": {
-        "commander": "brute1"
+        "commander": "astralSpirit1"
     },
     "core:elementalist": {
-        "commander": "brute1"
+        "commander": "sacredPhoenix"
     },
     "core:warlock": {
         "commander": "brute1"
     },
     "core:overlord": {
-        "commander": "brute1"
+        "commander": "darknessDragon"
     },
     "core:beastmaster": {
-        "commander": "brute1"
+        "commander": "hellHydra"
     },
     "core:witch": {
-        "commander": "brute1"
+        "commander": "shaman1"
     },
     "core:demoniac": {
-        "commander": "brute1"
+        "commander": "heretic"
     },
     "core:heretic": {
-        "commander": "brute1"
+        "commander": "succubus1"
     },
     "core:deathknight": {
-        "commander": "brute1"
+        "commander": "deathLords"
     },
     "core:necromancer": {
-        "commander": "brute1"
+        "commander": "bloodDragon"
     },
     "core:ranger": {
-        "commander": "brute1"
+        "commander": "diamondDragon"
     },
     "core:druid": {
-        "commander": "brute1"
+        "commander": "hierophant1"
     },
     "core:barbarian": {
-        "commander": "brute1"
+        "commander": "ghostBehemoth"
     },
     "core:battlemage": {
-        "commander": "brute1"
+        "commander": "ghostBehemoth"
     },
     "core:alchemist": {
-        "commander": "brute1"
+        "commander": "lordOfThunder"
     },
     "core:wizard": {
-        "commander": "brute1"
+        "commander": "templeGuardian1"
     }
 }
