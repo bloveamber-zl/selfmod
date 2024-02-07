@@ -84,6 +84,7 @@
             "attack": "GHDRATTK.wav",
             "defend": "GHDRDFND.wav",
             "killed": "GHDRKILL.wav",
+            "shoot": "commanders/MONKSHOT.wav",
             "move": "GHDRMOVE.wav",
             "wince": "GHDRWNCE.wav"
         }
